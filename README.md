@@ -47,4 +47,8 @@
 
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarYusupov2003&layout=compact&count_private=true&theme=buefy)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkbarYusupov2003&label=Profile%20views&color=0e75b6&style=for-the-badge&color=1d9bf0" alt="views" /> </p>
+<dl> 
+  <dd>
+    <img src="https://komarev.com/ghpvc/?username=AkbarYusupov2003&label=Profile%20views&color=0e75b6&style=for-the-badge&color=1d9bf0" alt="views" />
+  </dd>  
+</dl>  
