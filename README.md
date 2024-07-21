@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Backend developer
 <a href="https://t.me/Akbar_Yusupov1">
-  <img align="left" alt="Telegram" width="33px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+  <img align="left" alt="Telegram" width="33px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png">
 </a>
 <br/>
 
@@ -34,12 +34,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
-
-### Learning / Will learn
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Aiohttp](https://img.shields.io/badge/aiohttp-%232C5BB4.svg?&style=for-the-badge&logo=aiohttp&logoColor=white)
-![Tornado](https://img.shields.io/badge/Tornado-%2375AADB?style=for-the-badge&logo=Tornado&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 
 ## Statistics
 
