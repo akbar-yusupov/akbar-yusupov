@@ -40,5 +40,3 @@
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=akbar-yusupov&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbar-yusupov&layout=compact&count_private=true&theme=buefy)
-
-&ensp;<img src="https://komarev.com/ghpvc/?username=akbar-yusupov&label=Profile%20views&color=0e75b6&style=for-the-badge&color=1d9bf0" alt="views" />
