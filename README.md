@@ -1,10 +1,4 @@
-## Hi there 👋 I'm a Software engineer
-<a href="https://t.me/Akbar_Yusupov1">
-  <img align="left" alt="Telegram" width="33px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png">
-</a>
-<br/>
-
-## Technology stack
+## Technology Stack
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
